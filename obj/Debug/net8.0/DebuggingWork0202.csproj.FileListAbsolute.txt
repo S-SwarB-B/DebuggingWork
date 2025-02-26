@@ -12,3 +12,4 @@ D:\Programming\C#\DebuggingWork0202\obj\Debug\net8.0\refint\DebuggingWork0202.dl
 D:\Programming\C#\DebuggingWork0202\obj\Debug\net8.0\DebuggingWork0202.pdb
 D:\Programming\C#\DebuggingWork0202\obj\Debug\net8.0\DebuggingWork0202.genruntimeconfig.cache
 D:\Programming\C#\DebuggingWork0202\obj\Debug\net8.0\ref\DebuggingWork0202.dll
+D:\Programming\C#\DebuggingWork0202\obj\Debug\net8.0\DebuggingWork0202.sourcelink.json

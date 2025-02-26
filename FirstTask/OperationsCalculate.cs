@@ -10,8 +10,8 @@ namespace DebuggingWork0202_OpCalc
     {
         public double Operations(string s, double a, double b)
         {
-            try
-            {
+            //try
+            //{
                 if (s == "/" && b == 0)
                 {
                     return (int)a / 0;
@@ -36,13 +36,13 @@ namespace DebuggingWork0202_OpCalc
                 {
                     return (int)a / 0;
                 }
-            }
-            catch
-            {
-                Console.WriteLine("Ошибка. Возможно вы использовали не правильный оператор или этот оператор отсутствует в нашей программе\n" +
-                                  "Также есть вероятность, что была произведена попытка деления на 0");
-                return double.MaxValue;
-            }
+            //}
+            //catch
+            //{
+            //    Console.WriteLine("Ошибка. Возможно вы использовали не правильный оператор или этот оператор отсутствует в нашей программе\n" +
+            //                      "Также есть вероятность, что была произведена попытка деления на 0");
+            //    return double.MaxValue;
+            //}
         }
     }
 }

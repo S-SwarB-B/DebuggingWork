@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{2A58637F-16B9-417C-A861-E1E29C57912C}|DebuggingWork0202.csproj|solutionrelative:firsttask\\operationscalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A58637F-16B9-417C-A861-E1E29C57912C}|DebuggingWork0202.csproj|d:\\programming\\c#\\debuggingwork0202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A58637F-16B9-417C-A861-E1E29C57912C}|DebuggingWork0202.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A58637F-16B9-417C-A861-E1E29C57912C}|DebuggingWork0202.csproj|d:\\programming\\c#\\debuggingwork0202\\debuggingwork0202.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2A58637F-16B9-417C-A861-E1E29C57912C}|DebuggingWork0202.csproj|solutionrelative:debuggingwork0202.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A58637F-16B9-417C-A861-E1E29C57912C}|DebuggingWork0202.csproj|d:\\programming\\c#\\debuggingwork0202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A58637F-16B9-417C-A861-E1E29C57912C}|DebuggingWork0202.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,8 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DebuggingWork0202",
+              "DocumentIndex": 2,
+              "Title": "DebuggingWork0202.csproj",
               "DocumentMoniker": "D:\\Programming\\C#\\DebuggingWork0202\\DebuggingWork0202.csproj",
               "RelativeDocumentMoniker": "DebuggingWork0202.csproj",
               "ToolTip": "D:\\Programming\\C#\\DebuggingWork0202\\DebuggingWork0202.csproj",
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "FirstTask\\OperationsCalculate.cs",
               "ToolTip": "D:\\Programming\\C#\\DebuggingWork0202\\FirstTask\\OperationsCalculate.cs",
               "RelativeToolTip": "FirstTask\\OperationsCalculate.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T10:51:36.498Z",
               "EditorCaption": ""
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "FirstTask\\DebugWorkCalculate.cs",
               "ToolTip": "D:\\Programming\\C#\\DebuggingWork0202\\FirstTask\\DebugWorkCalculate.cs",
               "RelativeToolTip": "FirstTask\\DebugWorkCalculate.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T10:03:01.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\C#\\DebuggingWork0202\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Programming\\C#\\DebuggingWork0202\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T10:01:07.789Z",
               "EditorCaption": ""
