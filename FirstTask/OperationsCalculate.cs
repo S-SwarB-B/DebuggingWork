@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
+
 namespace DebuggingWork0202_OpCalc
 {
     internal class OperationsCalculate

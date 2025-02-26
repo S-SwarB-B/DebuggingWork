@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using DebuggingWork0202_OpCalc;
+using DebuggingWork0202.FirstTask_RIP;
 
 namespace DebuggingWork0202_DebWork
 {
@@ -21,7 +22,8 @@ namespace DebuggingWork0202_DebWork
 
             Debug.WriteLine("Debug-Start");
             Trace.WriteLine("Trace-Start");
-            Console.WriteLine("Вас приветствует калькулятор. Текущие функции:\n+ (сложение)\n- (вычитание)\n* (умножение)\n/ (деление)");
+            Console.WriteLine("Вас приветствует калькулятор. Текущие функции:\n+ (сложение)\n- (вычитание)\n* (умножение)\n/ (деление)\n" +
+                              "В поле оператора можно попробовать ввести '600290' (вводить с кавычками) :)");
             Console.Write("Первое число: ");
 
             
@@ -33,9 +35,13 @@ namespace DebuggingWork0202_DebWork
             {
                 Console.Write("Оператор: ");
                 string s = Console.ReadLine();
+                if(s == "'600290'")
+                {
+                    RIP_0_0_ rIP_0_0_ = new RIP_0_0_();
+                    rIP_0_0_.RIP();
+                }
                 Debug.WriteLine($"Оператор: {s}");
                 Trace.WriteLine($"Оператор: {s}");
-
                 Console.Write("Второе число: ");
                 sAB = Console.ReadLine();
                 Debug.WriteLine($"Второе число: {sAB}");
