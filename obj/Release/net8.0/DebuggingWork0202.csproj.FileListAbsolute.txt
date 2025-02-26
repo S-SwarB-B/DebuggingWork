@@ -1,0 +1,15 @@
+D:\Programming\C#\DebuggingWork0202\bin\Release\net8.0\DebuggingWork0202.exe
+D:\Programming\C#\DebuggingWork0202\bin\Release\net8.0\DebuggingWork0202.deps.json
+D:\Programming\C#\DebuggingWork0202\bin\Release\net8.0\DebuggingWork0202.runtimeconfig.json
+D:\Programming\C#\DebuggingWork0202\bin\Release\net8.0\DebuggingWork0202.dll
+D:\Programming\C#\DebuggingWork0202\bin\Release\net8.0\DebuggingWork0202.pdb
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.AssemblyInfoInputs.cache
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.AssemblyInfo.cs
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.csproj.CoreCompileInputs.cache
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.sourcelink.json
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.dll
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\refint\DebuggingWork0202.dll
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.pdb
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\DebuggingWork0202.genruntimeconfig.cache
+D:\Programming\C#\DebuggingWork0202\obj\Release\net8.0\ref\DebuggingWork0202.dll

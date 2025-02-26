@@ -3,20 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Diagnostics;
 namespace DebuggingWork0202_OpCalc
 {
     internal class OperationsCalculate
     {
         public double Operations(string s, double a, double b)
         {
-            //try
-            //{
+            try
+            {
                 if (s == "/" && b == 0)
                 {
                     return (int)a / 0;
                 }
-                if(s == "+")
+                if (s == "+")
                 {
                     return a + b;
                 }
@@ -36,13 +36,15 @@ namespace DebuggingWork0202_OpCalc
                 {
                     return (int)a / 0;
                 }
-            //}
-            //catch
-            //{
-            //    Console.WriteLine("Ошибка. Возможно вы использовали не правильный оператор или этот оператор отсутствует в нашей программе\n" +
-            //                      "Также есть вероятность, что была произведена попытка деления на 0");
-            //    return double.MaxValue;
-            //}
+            }
+            catch
+            {
+                Debug.WriteLine("Второй этап проверки не пройден (деление на ноль или несуществующий оператор)");
+                Trace.WriteLine("Второй этап проверки не пройден (деление на ноль или несуществующий оператор)");
+                Console.WriteLine("Ошибка. Возможно вы использовали не правильный оператор или этот оператор отсутствует в нашей программе\n" +
+                                  "Также есть вероятность, что была произведена попытка деления на 0");
+                return double.MaxValue;
+            }
         }
     }
 }
